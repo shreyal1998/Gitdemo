@@ -6,8 +6,5 @@ I am fineee.
 what is this.
 How areee youuuuuuuuuuuuuu ?
 What's uppppppppppppppppppppppppppppppppppppppppppppp ?
-<<<<<<< HEAD
 Shahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
-=======
 Hiiiiiiiiiiiiiiiiiiii
->>>>>>> 6e90546 (try to solve cherry-pick)
