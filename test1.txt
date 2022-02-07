@@ -8,10 +8,7 @@ Who is this ?
 i am also shreyal. 
 i am also shreyal. 
 hiiiiiiiiiiii
-<<<<<<< HEAD
 Heloooooooooooooooooo
 Hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
 Shreyalllllllllllllllllllllllllllllllllllllllllllllllll
-=======
 helooooo
->>>>>>> 6e90546 (try to solve cherry-pick)
